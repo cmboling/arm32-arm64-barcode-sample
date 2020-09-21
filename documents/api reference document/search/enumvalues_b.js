@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['sum_5fauto',['SUM_AUTO',['../group___enum.html#ggaaef8828d5227dabc642de002bebc8460a3dbaba0533e4b949b98eaaa347fd6f21',1,'SUM_AUTO():&#160;DynamsoftBarcodeReader.h'],['../group___enumerations.html#ggafe6f2e833ee172efa978e432f7c26fffaf8116d22ea88850b3b20160d1e21d499',1,'Dynamsoft.Barcode.SUM_AUTO()']]],
+  ['sum_5flinear_5finterpolation',['SUM_LINEAR_INTERPOLATION',['../group___enum.html#ggaaef8828d5227dabc642de002bebc8460a5277c1675b102dd776a4c5b4003d2000',1,'SUM_LINEAR_INTERPOLATION():&#160;DynamsoftBarcodeReader.h'],['../group___enumerations.html#ggafe6f2e833ee172efa978e432f7c26fffadbae726ded239390347eb3d7415b6f51',1,'Dynamsoft.Barcode.SUM_LINEAR_INTERPOLATION()']]],
+  ['sum_5fnearest_5fneighbour_5finterpolation',['SUM_NEAREST_NEIGHBOUR_INTERPOLATION',['../group___enum.html#ggaaef8828d5227dabc642de002bebc8460a8608d3067d61d35fa159e72a2386eee3',1,'SUM_NEAREST_NEIGHBOUR_INTERPOLATION():&#160;DynamsoftBarcodeReader.h'],['../group___enumerations.html#ggafe6f2e833ee172efa978e432f7c26fffa1c35a9453628475cee86d9157e494ef6',1,'Dynamsoft.Barcode.SUM_NEAREST_NEIGHBOUR_INTERPOLATION()']]],
+  ['sum_5frev',['SUM_REV',['../group___enum.html#ggaaef8828d5227dabc642de002bebc8460a54ef39124c27053852cd6ce48042dca3',1,'SUM_REV():&#160;DynamsoftBarcodeReader.h'],['../group___enumerations.html#ggafe6f2e833ee172efa978e432f7c26fffaa62052a1806173de3d447c6a34cb0333',1,'Dynamsoft.Barcode.SUM_REV()']]],
+  ['sum_5fskip',['SUM_SKIP',['../group___enum.html#ggaaef8828d5227dabc642de002bebc8460aca8c94d3c3ac1474e2f50dc7edb6cca8',1,'SUM_SKIP():&#160;DynamsoftBarcodeReader.h'],['../group___enumerations.html#ggafe6f2e833ee172efa978e432f7c26fffa394572c22bc4b4dc8ff9eb71c1780472',1,'Dynamsoft.Barcode.SUM_SKIP()']]]
+];

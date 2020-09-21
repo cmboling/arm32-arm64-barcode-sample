@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['message',['Message',['../class_dynamsoft_1_1_barcode_1_1_barcode_reader_exception.html#af12aece86b7fec701a6399e7e662f8c1',1,'Dynamsoft::Barcode::BarcodeReaderException']]],
+  ['middlepatternrange',['MiddlePatternRange',['../class_dynamsoft_1_1_barcode_1_1_one_d_code_details.html#a3f5b3a84c25332a027a1ae08af9f02ba',1,'Dynamsoft::Barcode::OneDCodeDetails']]],
+  ['model',['Model',['../class_dynamsoft_1_1_barcode_1_1_q_r_code_details.html#ae5705b956b35d21c4c5b2ab827fb0edf',1,'Dynamsoft::Barcode::QRCodeDetails']]],
+  ['modulesize',['ModuleSize',['../class_dynamsoft_1_1_barcode_1_1_localization_result.html#a11811e3fc785cb33c41877a2f38193d6',1,'Dynamsoft.Barcode.LocalizationResult.ModuleSize()'],['../class_dynamsoft_1_1_barcode_1_1_one_d_code_details.html#af806665aea0669a4c934424f18cfa9b6',1,'Dynamsoft.Barcode.OneDCodeDetails.ModuleSize()'],['../class_dynamsoft_1_1_barcode_1_1_q_r_code_details.html#a2c6a3b540a3cd962e97b5a7a354ee4e4',1,'Dynamsoft.Barcode.QRCodeDetails.ModuleSize()'],['../class_dynamsoft_1_1_barcode_1_1_p_d_f417_details.html#a7e7611205f62a36221c6398e5a752ed8',1,'Dynamsoft.Barcode.PDF417Details.ModuleSize()'],['../class_dynamsoft_1_1_barcode_1_1_data_matrix_details.html#afecb7a380f1bdc904203a014013f1bfa',1,'Dynamsoft.Barcode.DataMatrixDetails.ModuleSize()'],['../class_dynamsoft_1_1_barcode_1_1_aztec_details.html#aea82138f5e9a8a7bd0b72b670e5f33fe',1,'Dynamsoft.Barcode.AztecDetails.ModuleSize()']]]
+];
