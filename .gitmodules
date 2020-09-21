@@ -1,0 +1,3 @@
+[submodule "python-barcode"]
+	path = python-barcode
+	url = https://github.com/Dynamsoft/python-barcode.git
