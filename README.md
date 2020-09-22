@@ -61,3 +61,5 @@ pip install dbr
 ## License Agreement
 https://www.dynamsoft.com/Products/barcode-reader-license-agreement.aspx
 
+## Blog
+[Dynamsoft Barcode Reader ARM64 for Nvidia Jetson Nano](https://www.dynamsoft.com/codepool/jetson-nano-arm64-barcode-sdk.html)
